@@ -1,12 +1,12 @@
-package pl.jkanclerz;
+package pl.mniwicki;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.context.annotation.Bean;
-import pl.jkanclerz.creditcard.NameProvider;
-import pl.jkanclerz.productcatalog.MapProductStorage;
-import pl.jkanclerz.productcatalog.ProductCatalog;
-import pl.jkanclerz.productcatalog.ProductStorage;
+import pl.mniwicki.creditcard.NameProvider;
+import pl.mniwicki.productcatalog.MapProductStorage;
+import pl.mniwicki.productcatalog.ProductCatalog;
+import pl.mniwicki.productcatalog.ProductStorage;
 
 import java.math.BigDecimal;
 
